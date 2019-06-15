@@ -1,7 +1,7 @@
 # sunrise-ruby
 sunrise-ruby is just like the [sunrise](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/sunrise.zsh-theme) zsh theme but it has ruby version in your prompt.
 
-[](screenshot.png)
+![](screenshot.png)
 
 Inspired by [superjarin](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/superjarin.zsh-theme) theme
 
