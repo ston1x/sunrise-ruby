@@ -7,5 +7,5 @@ Inspired by [superjarin](https://github.com/robbyrussell/oh-my-zsh/blob/master/t
 
 ## Usage
 - `git clone https://github.com/ston1x/sunrise-ruby.git $ZSH_CUSTOM/themes/sunrise-ruby`
-- `ln sunrise-ruby.zsh-theme ../sunrise-ruby.zsh-theme`
+- `ln $ZSH_CUSTOM/themes/sunrise-ruby/sunrise-ruby.zsh-theme $ZSH_CUSTOM/themes/sunrise-ruby.zsh-theme`
 - Add `ZSH_THEME="sunrise-ruby"` to your .zshrc
